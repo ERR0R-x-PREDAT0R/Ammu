@@ -15,8 +15,8 @@
 
 ## `FORK AND CHANGE SETTINGS`
 
-- OWNER NUMBER [`CLICK HERE`](https://github.com/D-E-V-I-L-8/Ammu/blob/main/config.js#L2)
-- SESSION[`Click Here`](https://github.com/D-E-V-I-L-8/Ammu/blob/main/devil.json#L1)
+- OWNER NUMBER [`CLICK HERE`](https://github.com/ERR0R-x-PREDAT0R/Ammu/blob/main/config.js#L2)
+- SESSION[`Click Here`](https://github.com/ERR0R-x-PREDAT0R/Ammu/blob/main/devil.json#L1)
 
 
 ## `SCAN QR`
@@ -25,7 +25,7 @@
 
 ## `DEPLOY`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/D-E-V-I-L-8/Ammu)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ERR0R-x-PREDAT0R/Ammu)
 
 
 ## `CHANGE DYNO`
